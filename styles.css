@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.holder{
+	background-color:blue;
+	display:flex;
+	justify-content:center;
+}
